@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "prop-types": "^15.7.2",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
     "react-scripts": "3.0.1"
   },
   "scripts": {
@@ -32,8 +32,8 @@
     ]
   },
   "devDependencies": {
-    "eslint-plugin-jest": "^22.5.1",
-    "jest-dom": "^3.2.2",
-    "react-testing-library": "^7.0.0"
+    "eslint-plugin-jest": "^22.19.0",
+    "jest-dom": "^3.5.0",
+    "react-testing-library": "^7.0.1"
   }
 }
